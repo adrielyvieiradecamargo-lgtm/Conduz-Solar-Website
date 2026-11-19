@@ -36,10 +36,4 @@ Os itens internos são agrupamentos conceituais para documentar o conteúdo obse
 - Depoimentos.
 - Rodapé com links e canais de contato.
 
-## Recomendações de manutenção editorial
 
-- Manter nomes dos serviços consistentes entre menu, páginas e chamadas.
-- Evitar percentuais ou indicadores sem fonte e contexto verificáveis.
-- Revisar periodicamente telefones, e-mails, links e redes sociais.
-- Utilizar textos alternativos descritivos nas imagens relevantes.
-- Garantir que depoimentos publicados estejam autorizados.
