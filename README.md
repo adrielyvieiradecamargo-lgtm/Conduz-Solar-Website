@@ -96,9 +96,6 @@ A pasta [`custom-code/`](custom-code/) pode receber CSS, HTML ou JavaScript auto
 - Não deve receber `wp-config.php`, backups, credenciais ou dados de clientes.
 - O repositório não reproduz automaticamente o website; o site oficial continua publicado na hospedagem da Conduz Solar.
 
-## Créditos e autorização
-
-Este repositório é uma documentação de portfólio relacionada ao website da Conduz Solar. Antes de torná-lo público, confirme que a empresa autorizou a divulgação de capturas de tela, textos, marca e customizações. Respeite os direitos sobre fotografias, logotipos, temas, plugins e demais materiais de terceiros.
 
 ---
 
