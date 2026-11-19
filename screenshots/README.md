@@ -1,16 +1,13 @@
 # Capturas de tela do projeto
 
-Adicione aqui capturas próprias e autorizadas do website público, preferencialmente:
-
 1. `home-desktop.png` — página inicial em desktop.
-2. `home-mobile.png` — página inicial em dispositivo móvel.
-3. `servicos.png` — seção ou página de serviços.
+<img width="1900" height="897" alt="image" src="https://github.com/user-attachments/assets/b00132c8-06bb-4f64-b6f3-4e54385c1a86" />
+
+
+2. `servicos.png` — seção ou página de serviços.
+<img width="1900" height="919" alt="image" src="https://github.com/user-attachments/assets/2a9b6976-e73e-4483-8505-61d6c224957c" />
+
+
 4. `sobre.png` — apresentação institucional.
-5. `contato.png` — área de contato, sem expor dados privados.
+<img width="1896" height="911" alt="image" src="https://github.com/user-attachments/assets/b829d1bb-3d40-4ee3-92a0-f991cd588a83" />
 
-Dicas:
-
-- Capture o website público, não o painel do WordPress.
-- Remova notificações, dados pessoais e informações administrativas.
-- Prefira imagens em boa resolução e com tamanho otimizado.
-- Não utilize imagens de terceiros sem autorização.
