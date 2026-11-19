@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Conduz Solar — Website institucional</title>
+  <desc id="desc">Banner de portfólio com identidade visual escura e destaque amarelo solar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#273449"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF508"/>
+      <stop offset="1" stop-color="#F5B900"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <circle cx="1000" cy="176" r="150" fill="#FFF508" opacity=".07"/>
+  <circle cx="1000" cy="176" r="105" fill="none" stroke="#FFF508" stroke-opacity=".24" stroke-width="2"/>
+  <circle cx="1000" cy="176" r="72" fill="url(#sun)" opacity=".95"/>
+  <g stroke="#FFF508" stroke-width="5" stroke-linecap="round" opacity=".85">
+    <path d="M1000 44V20M1000 332v-24M868 176h-24M1156 176h-24M907 83l-17-17M1110 276l-17-17M1093 83l17-17M890 293l17-17"/>
+  </g>
+  <g transform="translate(790 232) skewX(-18)" fill="none" stroke="#9FB4CA" stroke-width="3" opacity=".55">
+    <path d="M0 0h250l28 78H28z"/>
+    <path d="M42 0l20 78M104 0l8 78M166 0l-4 78M0 26h260M10 53h260"/>
+  </g>
+  <rect x="72" y="64" width="9" height="48" rx="4" fill="#FFF508"/>
+  <text x="105" y="102" fill="#FFF508" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="5">ESTUDO DE CASO · WEBSITE</text>
+  <text x="72" y="188" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" letter-spacing="-2">CONDUZ SOLAR</text>
+  <text x="75" y="236" fill="#D9E2EF" font-family="Arial, Helvetica, sans-serif" font-size="25">Website institucional em WordPress + Elementor</text>
+  <rect x="72" y="278" width="240" height="4" rx="2" fill="#FFF508"/>
+  <text x="75" y="316" fill="#9FB4CA" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">ENERGIA SOLAR · ELÉTRICA · SERVIÇOS</text>
+</svg>
